@@ -14,7 +14,7 @@
 - 📝 I regulary write what i think for [medium](https://medium.com/@adhatamaa) and [dev.to](https://dev.to/adhapratama)
 - 💻 I use daily **.html**, **.css**, **.js**, **.dart**,  
 - 📖 I am currently reading **The Psychology of Money** by Morgan Housel
-- 💬 Talk to me about footbal, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 💬 Talk to me about footbal, flutter, web development, silicon valley & startups
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="java" width="65" height="65"/> 
