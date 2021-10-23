@@ -17,7 +17,7 @@
 - 💬 Talk to me about footbal, python (both of these are not any kind of insect or animals), silicon valley & startups
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-ar21.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
