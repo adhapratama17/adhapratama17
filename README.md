@@ -11,7 +11,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a developer wannabe  working for what i love :D 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write what i thin for [medium](https://medium.com/@adhatamaa) and [dev.to](https://dev.to/adhapratama)
+- 📝 I regulary write what i think for [medium](https://medium.com/@adhatamaa) and [dev.to](https://dev.to/adhapratama)
 - 💻 I use daily **.html**, **.css**, **.js**, **.dart**,  
 - 📖 I am currently reading **The Psychology of Money** by Morgan Housel
 - 💬 Talk to me about footbal, python (both of these are not any kind of insect or animals), silicon valley & startups
